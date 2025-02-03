@@ -1,0 +1,24 @@
+age,weight,height,diet_type,Meal Name,Meal Time,Calories,Protein (g),Carbs (g),Fat (g)
+18,55,160,Vegetarian,Oatmeal with fruits and nuts,Breakfast,350,10,50,8
+18,55,160,Vegetarian,Lentil curry with brown rice and salad,Lunch,400,12,65,10
+18,55,160,Vegetarian,Grilled tofu with steamed vegetables,Dinner,300,15,20,7
+18,55,160,Vegetarian,Fruit smoothie,Snack,150,5,30,2
+25,70,170,Non-Vegetarian,Eggs with whole-grain toast,Breakfast,300,20,30,10
+25,70,170,Non-Vegetarian,Grilled chicken with quinoa and mixed vegetables,Lunch,450,35,40,15
+25,70,170,Non-Vegetarian,Salmon with roasted sweet potatoes,Dinner,400,30,30,12
+25,70,170,Non-Vegetarian,Yogurt with nuts,Snack,200,10,15,8
+30,75,175,Vegetarian,Vegetable poha,Breakfast,250,6,40,6
+30,75,175,Vegetarian,Paneer curry with whole-wheat roti,Lunch,400,15,50,12
+30,75,175,Vegetarian,Mixed bean salad,Dinner,350,12,35,10
+30,75,175,Vegetarian,Roasted chickpeas,Snack,150,7,20,5
+40,85,170,Non-Vegetarian,Omelette with avocado toast,Breakfast,350,25,25,15
+40,85,170,Non-Vegetarian,Grilled turkey with steamed broccoli,Lunch,400,30,20,10
+40,85,170,Non-Vegetarian,Roast beef with mashed potatoes,Dinner,500,40,40,20
+40,85,170,Non-Vegetarian,Protein bar,Snack,250,20,25,8
+50,65,155,Vegetarian,Idli with sambar,Breakfast,200,6,35,4
+50,65,155,Vegetarian,Mixed vegetable pulao,Lunch,350,10,55,8
+50,65,155,Vegetarian,Dal tadka with steamed rice,Dinner,400,12,65,10
+50,65,155,Vegetarian,Dry fruits,Snack,150,5,10,8
+22,50,150,Vegetarian,Oatmeal with fruits and nuts,Breakfast,350,10,50,8
+22,50,150,Vegetarian,Lentil curry with brown rice and salad,Lunch,400	1,,65,10
+22,55,150,Vegetarian,Grilled tofu with steamed vegetables,Dinner,300,15,20,7
